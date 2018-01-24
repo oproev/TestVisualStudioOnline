@@ -7,7 +7,8 @@ using System.Threading;
 namespace SolutionsTests
 {
     [TestFixture]
-    public class Class1
+    [Category("UITests")]
+    public class UiUsingSeleniumTest
     {
         [Test]
         public void TestA()
@@ -16,7 +17,7 @@ namespace SolutionsTests
             driver.Url = "http://www.demoqa.com";
 
             Assert.IsTrue(driver.Title == "Demoqa | Just another WordPress site");
-            Thread.Sleep(5000);
+            Thread.Sleep(1000);
             driver.Close();
         }
 
@@ -27,7 +28,7 @@ namespace SolutionsTests
             driver.Url = "http://www.demoqa.com";
 
             Assert.IsTrue(driver.Title == "Demoqa | Just another WordPress site");
-            Thread.Sleep(5000);
+            Thread.Sleep(1000);
             driver.Close();
         }
     }

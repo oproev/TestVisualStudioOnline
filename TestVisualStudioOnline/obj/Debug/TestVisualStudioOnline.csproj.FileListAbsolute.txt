@@ -3,3 +3,4 @@ c:\users\odne_\documents\visual studio 2017\Projects\TestVisualStudioOnline\Test
 c:\users\odne_\documents\visual studio 2017\Projects\TestVisualStudioOnline\TestVisualStudioOnline\obj\Debug\TestVisualStudioOnline.csproj.CoreCompileInputs.cache
 c:\users\odne_\documents\visual studio 2017\Projects\TestVisualStudioOnline\TestVisualStudioOnline\obj\Debug\TestVisualStudioOnline.dll
 c:\users\odne_\documents\visual studio 2017\Projects\TestVisualStudioOnline\TestVisualStudioOnline\obj\Debug\TestVisualStudioOnline.pdb
+C:\Users\odne_\documents\visual studio 2017\Projects\TestVisualStudioOnline\TestVisualStudioOnline\obj\Debug\TestVisualStudioOnline.csprojResolveAssemblyReference.cache
