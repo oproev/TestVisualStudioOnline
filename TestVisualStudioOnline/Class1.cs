@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 
 namespace TestVisualStudioOnline
 {
     public class Class1
     {
+        public Class1()
+        {
+            Debug.WriteLine("Test code");
+        }
     }
 }
